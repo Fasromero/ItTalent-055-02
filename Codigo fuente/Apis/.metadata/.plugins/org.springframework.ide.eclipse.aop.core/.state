@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="doc-app"/>
+<aop-project name="back-app"/>
+<aop-project name="rest-app"/>
+<aop-project name="cbd-app"/>
+<aop-project name="web-app"/>
+</aop-reference-model>
